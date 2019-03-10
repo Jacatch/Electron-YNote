@@ -1,0 +1,2 @@
+# Electron-YNote
+使用electron对有道云笔记进行简单封装
